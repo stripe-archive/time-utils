@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.version       = Time::Utils::VERSION
   spec.authors       = ["Alex MacCaw"]
   spec.email         = ["alex@stripe.com"]
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.description   = %q{Some useful time utilities}
+  spec.summary       = %q{Some useful time utilities}
+  spec.homepage      = "http://github.com/stripe/time-utils"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
